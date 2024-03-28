@@ -1,3 +1,5 @@
 python-dotenv
 requests
 argparse
+
+# brew install imagemagick
